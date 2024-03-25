@@ -5,7 +5,7 @@ import MainLayout from '../layouts/MainLayout';
 const AboutScreen = () => {
   return (
     <MainLayout>
-      <Text>About Screen</Text>
+      <Text>Gourav Sharma</Text>
     </MainLayout>
   );
 };
